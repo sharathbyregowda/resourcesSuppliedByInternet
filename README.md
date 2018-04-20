@@ -14,6 +14,10 @@
 - https://www.mythicsoft.com/agentransack/ [Because windows search is shit]
 - https://curl.haxx.se/dlwiz/ [Curl download wizard]
 
+#### Capture screenshots
+- https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg [Chrome plugin for full length scrolling screenshot]
+
+
 #### Test reporting
 ##### Automated tests
 - https://github.com/allure-framework/allure2
