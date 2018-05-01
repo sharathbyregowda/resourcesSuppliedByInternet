@@ -21,6 +21,8 @@
 - https://cachethq.io/ [The open source status page system]
 - https://staytus.co/
 
+#### Temporary mailbox
+- https://www.mailinator.com/
 
 #### Test reporting
 ##### Automated tests
