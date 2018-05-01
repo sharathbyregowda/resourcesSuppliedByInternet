@@ -17,6 +17,10 @@
 #### Capture screenshots
 - https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg [Chrome plugin for full length scrolling screenshot]
 
+#### Downtime status 
+- https://cachethq.io/ [The open source status page system]
+- https://staytus.co/
+
 
 #### Test reporting
 ##### Automated tests
