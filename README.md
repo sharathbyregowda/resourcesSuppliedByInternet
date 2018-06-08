@@ -24,6 +24,12 @@
 #### Temporary mailbox
 - https://www.mailinator.com/
 
+#### Accessibility testing
+- JAWS [https://webaim.org/articles/jaws/]
+- https://webaim.org/articles/nvda/
+- https://webaim.org/articles/voiceover/
+- WAVE [http://wave.webaim.org/extension/]
+
 #### Test reporting
 ##### Automated tests
 - https://github.com/allure-framework/allure2
