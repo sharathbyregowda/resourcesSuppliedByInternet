@@ -14,6 +14,9 @@
 - https://www.mythicsoft.com/agentransack/ [Because windows search is shit]
 - https://curl.haxx.se/dlwiz/ [Curl download wizard]
 
+#### Record Videos
+- https://obsproject.com/
+
 #### Capture screenshots
 - https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg [Chrome plugin for full length scrolling screenshot]
 
