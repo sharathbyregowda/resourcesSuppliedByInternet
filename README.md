@@ -4,6 +4,10 @@
 - https://thinkster.io/
 - https://www.khanacademy.org/computing/computer-programming
 
+#### Python stuff
+- http://i.imgur.com/ZG4VcOp.jpg 9 common beginner Python errors on one page by https://twitter.com/pythonforbiolog
+
+
 #### Old versions required
 - http://www.oldversion.com/windows/google-chrome/
 
