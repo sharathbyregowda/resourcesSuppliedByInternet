@@ -1,5 +1,10 @@
 # resourcesSuppliedByInternet
 
+#### Shell resources
+- https://www.bash.academy/
+- http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+- http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+
 #### Learn to Learn
 - https://medium.com/the-mission/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6
 - https://medium.com/swlh/8-timeless-skills-to-learn-now-in-under-8-hours-to-change-your-life-forever-75e7b339373a
