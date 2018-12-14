@@ -16,6 +16,8 @@
 #### Python stuff
 - http://i.imgur.com/ZG4VcOp.jpg 9 common beginner Python errors on one page by https://twitter.com/pythonforbiolog
 
+#### Impact Mapping/User stories workshop books
+- https://docs.google.com/document/d/e/2PACX-1vTTmgKsKH6hivUK0JU2uTk8o3mCouKwYcBwEDRGU-uKdEaP9nfnd74ik1X8pDTaH3CgNlgbaWu46q3L/pub
 
 #### Old versions required
 - http://www.oldversion.com/windows/google-chrome/
