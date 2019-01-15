@@ -25,6 +25,17 @@
 #### Impact Mapping/User stories workshop books
 - https://docs.google.com/document/d/e/2PACX-1vTTmgKsKH6hivUK0JU2uTk8o3mCouKwYcBwEDRGU-uKdEaP9nfnd74ik1X8pDTaH3CgNlgbaWu46q3L/pub
 
+#### Ethical Hacking Platforms
+- pwnable.kr
+- pwnable.tw
+- ctflearn.com
+- root-me.org
+- hackthebox.eu
+- hacking-lab.com
+- microcorruption.com
+- crackmes.one
+- ctflearn.com
+
 #### Old versions required
 - http://www.oldversion.com/windows/google-chrome/
 
