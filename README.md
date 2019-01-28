@@ -22,6 +22,8 @@
 #### JS
 - https://dev.to/emmawedekind/how-to-learn-javascript-54i6 (learning)
 - https://developer.mozilla.org/en-US/docs/Web/API (interfaces)
+- http://perfectionkills.com/the-poor-misunderstood-innerText/ (The poor, misunderstood innerText)
+- https://kellegous.com/j/2013/02/27/innertext-vs-textcontent/ (INNERTEXT VS. TEXTCONTENT)
 
 #### Impact Mapping/User stories workshop books
 - https://docs.google.com/document/d/e/2PACX-1vTTmgKsKH6hivUK0JU2uTk8o3mCouKwYcBwEDRGU-uKdEaP9nfnd74ik1X8pDTaH3CgNlgbaWu46q3L/pub
